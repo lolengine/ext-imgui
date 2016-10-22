@@ -25,6 +25,11 @@ opengl3_example/Release/*
 opengl3_example/ipch/*
 opengl3_example/x64/*
 opengl3_example/opengl3_example
+vulkan_example/Debug/*
+vulkan_example/Release/*
+vulkan_example/ipch/*
+vulkan_example/x64/*
+vulkan_example/vulkan_example
 *.opensdf
 *.sdf
 *.suo
